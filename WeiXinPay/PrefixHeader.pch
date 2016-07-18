@@ -1,0 +1,26 @@
+//
+//  PrefixHeader.pch
+//  WeiXinPay
+//
+//  Created by ios_kai on 16/7/18.
+//  Copyright © 2016年 ios_kai. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+//微信开放平台中创建的应用的appid
+#define APP_id   @""
+
+//商家id
+#define MCH_id  @""
+
+//微信商户中心里面设置的32位的字符串
+#define PARTNER_id  @""
+
+#define nocify_url @"www.baidu.com"
+
+#define WEIXINPAYSUCCESSED    @"WeiXinPaysucceed"
+
+#endif /* PrefixHeader_pch */
